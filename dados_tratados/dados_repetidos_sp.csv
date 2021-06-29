@@ -1,0 +1,8 @@
+index,city,city_ibge_code,date,epidemiological_week,estimated_population,estimated_population_2019,is_last,is_repeated,last_available_confirmed,last_available_confirmed_per_100k_inhabitants,last_available_date,last_available_death_rate,last_available_deaths,order_for_place,place_type,state,new_confirmed,new_deaths
+1995511,São Paulo,35.0,2020-03-13,202011,46289333.0,45919049.0,False,True,46,0.09937,2020-03-12,0.0,0,18,state,SP,0,0
+1995521,São Paulo,35.0,2020-03-15,202012,46289333.0,45919049.0,False,True,65,0.14042000000000002,2020-03-14,0.0,0,20,state,SP,0,0
+2117007,São Paulo,35.0,2020-11-06,202045,46289333.0,45919049.0,False,True,1125936,2432.38761,2020-11-05,0.0353,39717,256,state,SP,0,0
+2117654,São Paulo,35.0,2020-11-07,202045,46289333.0,45919049.0,False,True,1125936,2432.38761,2020-11-05,0.0353,39717,257,state,SP,0,0
+2118301,São Paulo,35.0,2020-11-08,202046,46289333.0,45919049.0,False,True,1125936,2432.38761,2020-11-05,0.0353,39717,258,state,SP,0,0
+2118948,São Paulo,35.0,2020-11-09,202046,46289333.0,45919049.0,False,True,1125936,2432.38761,2020-11-05,0.0353,39717,259,state,SP,0,0
+2142887,São Paulo,35.0,2020-12-16,202051,46289333.0,45919049.0,False,True,1341428,2897.92035,2020-12-15,0.033,44282,296,state,SP,0,0
